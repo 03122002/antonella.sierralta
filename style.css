@@ -1,0 +1,38 @@
+/* fondo */
+body{
+  background-color: rgb(74, 204, 243);
+}
+
+/* tipografías */
+#tprincipal{
+   font-family: Arial, Helvetica, sans-serif;
+   color:rgb(250, 251, 252);
+}
+
+texto1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+   font-weight: bold;
+  
+}
+
+texto2{
+   font-family: cursive;
+   font-size:35px;
+   font-weight: normal;
+   color: rgb(0, 156, 161);
+}
+textog{
+   font: size 20px;
+   font-weight: normal;
+   color: antiquewhite;
+   font-family: cursive;
+}
+
+textonombre{
+   font-family: cursive;
+   font-size: 1cm;
+   font-weight: normal;
+} 
+
+

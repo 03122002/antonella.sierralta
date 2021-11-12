@@ -7,7 +7,7 @@ function setup() {
   span = 8;
   current = 0;
 
-  createCanvas(600, 600);
+  createCanvas(3000, 1000);
   background(250, 100, 120);
   strokeWeight(8);
 
